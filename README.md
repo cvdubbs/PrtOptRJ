@@ -8,4 +8,4 @@ The quant analyst technical assesment project!
 3. Portfolio Optimization and Data Output - This is the workhorse of the project. We optimize the three portfolios using our asset data and output the csv file.
 
 link to the binder for interactive jupyter notebooks:
-https://hub.gke2.mybinder.org/user/cvdubbs-prtoptrj-a42errwx/tree
+https://hub.gke2.mybinder.org/user/cvdubbs-prtoptrj-8qftmge0/tree
