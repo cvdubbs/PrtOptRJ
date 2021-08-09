@@ -11,5 +11,3 @@ link to the binder for interactive jupyter notebooks:
 https://hub.gke2.mybinder.org/user/cvdubbs-prtoptrj-8qftmge0/tree
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cvdubbs/PrtOptRJ/main)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/cvdubbs/PrtOptRJ/main
